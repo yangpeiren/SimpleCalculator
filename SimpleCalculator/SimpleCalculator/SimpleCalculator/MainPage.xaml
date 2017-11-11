@@ -3,11 +3,71 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:local="clr-namespace:SimpleCalculator"
              x:Class="SimpleCalculator.MainPage">
+    
+    <ContentPage.Padding>
+        <OnPlatform x:TypeArguments="Thickness">
+            <OnPlatform.iOS>0,20,0,0</OnPlatform.iOS>
+        </OnPlatform>
+    </ContentPage.Padding>
+
     <ContentPage.Content>
-        <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
+        <StackLayout Padding="5,0" Orientation="Vertical" Spacing="0">
+            <Label HeightRequest="100" BackgroundColor="#FFF"/>
+            <Label x:Name="outText" FontSize="36" FontAttributes="Bold" HorizontalTextAlignment="End" Text="Welcome"
+                   VerticalTextAlignment="Center" LineBreakMode="NoWrap" BackgroundColor="#FFF" TextColor="#6C000000" />
+            <StackLayout Orientation="Horizontal" Spacing="0" VerticalOptions="FillAndExpand">
+                <Grid Padding="0,0"  RowSpacing="0" ColumnSpacing="0" BackgroundColor="#FFF" VerticalOptions="EndAndExpand">
+
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="*" />
+                        <RowDefinition Height="*" />
+                        <RowDefinition Height="*" />
+                        <RowDefinition Height="*" />
+                    </Grid.RowDefinitions>
+
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*" />
+                        <ColumnDefinition Width="*" />
+                        <ColumnDefinition Width="*" />
+                    </Grid.ColumnDefinitions>
+
+                    <Button Text="7" Grid.Row="1" Grid.Column="0" Style="{StaticResource numberStyle}" Clicked="OnButtonClick" />
+                    <Button Text="8" Grid.Row="1" Grid.Column="1" Style="{StaticResource numberStyle}" Clicked="OnButtonClick" />
+                    <Button Text="9" Grid.Row="1" Grid.Column="2" Style="{StaticResource numberStyle}" Clicked="OnButtonClick" />
+                    <Button Text="4" Grid.Row="2" Grid.Column="0" Style="{StaticResource numberStyle}" Clicked="OnButtonClick" />
+                    <Button Text="5" Grid.Row="2" Grid.Column="1" Style="{StaticResource numberStyle}" Clicked="OnButtonClick" />
+                    <Button Text="6" Grid.Row="2" Grid.Column="2" Style="{StaticResource numberStyle}" Clicked="OnButtonClick" />
+                    <Button Text="1" Grid.Row="3" Grid.Column="0" Style="{StaticResource numberStyle}" Clicked="OnButtonClick" />
+                    <Button Text="2" Grid.Row="3" Grid.Column="1" Style="{StaticResource numberStyle}" Clicked="OnButtonClick" />
+                    <Button Text="3" Grid.Row="3" Grid.Column="2" Style="{StaticResource numberStyle}" Clicked="OnButtonClick" />
+                    <Button Text="." Grid.Row="4" Grid.Column="0" Style="{StaticResource numberStyle}" Clicked="OnButtonClick" />
+                    <Button Text="0" Grid.Row="4" Grid.Column="1" Style="{StaticResource numberStyle}" Clicked="OnButtonClick" />
+                    <Button Text="=" Grid.Row="4" Grid.Column="2" Style="{StaticResource numberStyle}" Clicked="OnButtonClick" />
+
+                </Grid>
+                <Grid Padding="0,0" RowSpacing="0" ColumnSpacing="0" BackgroundColor="#FFF" VerticalOptions="EndAndExpand">
+
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="*" />
+                        <RowDefinition Height="*" />
+                        <RowDefinition Height="*" />
+                        <RowDefinition Height="*" />
+                        <RowDefinition Height="*" />
+                    </Grid.RowDefinitions>
+
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*" />
+                    </Grid.ColumnDefinitions>
+
+                    <Button Text="DEL" Grid.Row="1" Grid.Column="0" Style="{StaticResource operatorStyle}" Clicked="OnButtonClick" />
+                    <Button Text="÷" Grid.Row="2" Grid.Column="0" Style="{StaticResource operatorStyle}" Clicked="OnButtonClick" />
+                    <Button Text="×" Grid.Row="3" Grid.Column="0" Style="{StaticResource operatorStyle}" Clicked="OnButtonClick" />
+                    <Button Text="-" Grid.Row="4" Grid.Column="0" Style="{StaticResource operatorStyle}" Clicked="OnButtonClick" />
+                    <Button Text="+" Grid.Row="5" Grid.Column="0" Style="{StaticResource operatorStyle}" Clicked="OnButtonClick" />
+
+                </Grid>
+            </StackLayout>
+            <Label HeightRequest="50" FontSize="22" BackgroundColor="#FFF" Text="Author: Peiren Yang" HorizontalTextAlignment="End" VerticalOptions="EndAndExpand"/>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>
