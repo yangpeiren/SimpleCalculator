@@ -11,63 +11,67 @@
     </ContentPage.Padding>
 
     <ContentPage.Content>
-        <StackLayout Padding="5,0" Orientation="Vertical" Spacing="0">
-            <Label HeightRequest="100" BackgroundColor="#FFF"/>
-            <Label x:Name="outText" FontSize="36" FontAttributes="Bold" HorizontalTextAlignment="End" Text="Welcome"
-                   VerticalTextAlignment="Center" LineBreakMode="NoWrap" BackgroundColor="#FFF" TextColor="#6C000000" />
-            <StackLayout Orientation="Horizontal" Spacing="0" VerticalOptions="FillAndExpand">
-                <Grid Padding="0,0"  RowSpacing="0" ColumnSpacing="0" BackgroundColor="#FFF" VerticalOptions="EndAndExpand">
+        <StackLayout Padding="5,0" Orientation="Vertical" Spacing="0" BackgroundColor="#FFF">
+            <Button x:Name="aboutInfo" HorizontalOptions="EndAndExpand" Text="&#8942;" 
+                    FontSize="30" BackgroundColor="#FFF" TextColor="#6C000000" Clicked="OnDisplayAbout"/>
+            <Label HeightRequest="80" BackgroundColor="#FFF"/>
+            <Label x:Name="outText" FontSize="40" FontAttributes="Bold" HorizontalTextAlignment="End" Text="Welcome"
+                   VerticalTextAlignment="Center" LineBreakMode="NoWrap" BackgroundColor="#FFF" TextColor="#6C000000"
+                   AutomationId="resultText"/>
+            <Label HeightRequest="80" BackgroundColor="#FFF"/>
+            <StackLayout Orientation="Horizontal" Spacing="0">
+                <Grid Padding="0,0"  RowSpacing="0" ColumnSpacing="0" BackgroundColor="#FFF">
 
                     <Grid.RowDefinitions>
-                        <RowDefinition Height="*" />
-                        <RowDefinition Height="*" />
-                        <RowDefinition Height="*" />
-                        <RowDefinition Height="*" />
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="Auto" />
                     </Grid.RowDefinitions>
 
                     <Grid.ColumnDefinitions>
-                        <ColumnDefinition Width="*" />
-                        <ColumnDefinition Width="*" />
-                        <ColumnDefinition Width="*" />
+                        <ColumnDefinition Width="Auto" />
+                        <ColumnDefinition Width="Auto" />
+                        <ColumnDefinition Width="Auto" />
                     </Grid.ColumnDefinitions>
 
-                    <Button Text="7" Grid.Row="1" Grid.Column="0" Style="{StaticResource numberStyle}" Clicked="OnButtonClick" />
-                    <Button Text="8" Grid.Row="1" Grid.Column="1" Style="{StaticResource numberStyle}" Clicked="OnButtonClick" />
-                    <Button Text="9" Grid.Row="1" Grid.Column="2" Style="{StaticResource numberStyle}" Clicked="OnButtonClick" />
-                    <Button Text="4" Grid.Row="2" Grid.Column="0" Style="{StaticResource numberStyle}" Clicked="OnButtonClick" />
-                    <Button Text="5" Grid.Row="2" Grid.Column="1" Style="{StaticResource numberStyle}" Clicked="OnButtonClick" />
-                    <Button Text="6" Grid.Row="2" Grid.Column="2" Style="{StaticResource numberStyle}" Clicked="OnButtonClick" />
-                    <Button Text="1" Grid.Row="3" Grid.Column="0" Style="{StaticResource numberStyle}" Clicked="OnButtonClick" />
-                    <Button Text="2" Grid.Row="3" Grid.Column="1" Style="{StaticResource numberStyle}" Clicked="OnButtonClick" />
-                    <Button Text="3" Grid.Row="3" Grid.Column="2" Style="{StaticResource numberStyle}" Clicked="OnButtonClick" />
-                    <Button Text="." Grid.Row="4" Grid.Column="0" Style="{StaticResource numberStyle}" Clicked="OnButtonClick" />
-                    <Button Text="0" Grid.Row="4" Grid.Column="1" Style="{StaticResource numberStyle}" Clicked="OnButtonClick" />
-                    <Button Text="=" Grid.Row="4" Grid.Column="2" Style="{StaticResource numberStyle}" Clicked="OnButtonClick" />
+                    <Button Text="7" Grid.Row="1" Grid.Column="0" AutomationId="button7" Style="{StaticResource numberStyle}" Clicked="OnButtonClick" />
+                    <Button Text="8" Grid.Row="1" Grid.Column="1" AutomationId="button8" Style="{StaticResource numberStyle}" Clicked="OnButtonClick" />
+                    <Button Text="9" Grid.Row="1" Grid.Column="2" AutomationId="button9" Style="{StaticResource numberStyle}" Clicked="OnButtonClick" />
+                    <Button Text="4" Grid.Row="2" Grid.Column="0" AutomationId="button4" Style="{StaticResource numberStyle}" Clicked="OnButtonClick" />
+                    <Button Text="5" Grid.Row="2" Grid.Column="1" AutomationId="button5" Style="{StaticResource numberStyle}" Clicked="OnButtonClick" />
+                    <Button Text="6" Grid.Row="2" Grid.Column="2" AutomationId="button6" Style="{StaticResource numberStyle}" Clicked="OnButtonClick" />
+                    <Button Text="1" Grid.Row="3" Grid.Column="0" AutomationId="button1" Style="{StaticResource numberStyle}" Clicked="OnButtonClick" />
+                    <Button Text="2" Grid.Row="3" Grid.Column="1" AutomationId="button2" Style="{StaticResource numberStyle}" Clicked="OnButtonClick" />
+                    <Button Text="3" Grid.Row="3" Grid.Column="2" AutomationId="button3" Style="{StaticResource numberStyle}" Clicked="OnButtonClick" />
+                    <Button Text="." Grid.Row="4" Grid.Column="0" AutomationId="buttonPoint" Style="{StaticResource numberStyle}" Clicked="OnButtonClick" />
+                    <Button Text="0" Grid.Row="4" Grid.Column="1" AutomationId="button0" Style="{StaticResource numberStyle}" Clicked="OnButtonClick" />
+                    <Button Text="=" Grid.Row="4" Grid.Column="2" AutomationId="buttonEqual" Style="{StaticResource numberStyle}" Clicked="OnButtonClick" />
 
                 </Grid>
-                <Grid Padding="0,0" RowSpacing="0" ColumnSpacing="0" BackgroundColor="#FFF" VerticalOptions="EndAndExpand">
+                <Grid Padding="0,0" RowSpacing="0" ColumnSpacing="0" BackgroundColor="#FFF">
 
                     <Grid.RowDefinitions>
-                        <RowDefinition Height="*" />
-                        <RowDefinition Height="*" />
-                        <RowDefinition Height="*" />
-                        <RowDefinition Height="*" />
-                        <RowDefinition Height="*" />
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="Auto" />
                     </Grid.RowDefinitions>
 
                     <Grid.ColumnDefinitions>
-                        <ColumnDefinition Width="*" />
+                        <ColumnDefinition Width="Auto" />
                     </Grid.ColumnDefinitions>
 
-                    <Button Text="DEL" Grid.Row="1" Grid.Column="0" Style="{StaticResource operatorStyle}" Clicked="OnButtonClick" />
-                    <Button Text="÷" Grid.Row="2" Grid.Column="0" Style="{StaticResource operatorStyle}" Clicked="OnButtonClick" />
-                    <Button Text="×" Grid.Row="3" Grid.Column="0" Style="{StaticResource operatorStyle}" Clicked="OnButtonClick" />
-                    <Button Text="-" Grid.Row="4" Grid.Column="0" Style="{StaticResource operatorStyle}" Clicked="OnButtonClick" />
-                    <Button Text="+" Grid.Row="5" Grid.Column="0" Style="{StaticResource operatorStyle}" Clicked="OnButtonClick" />
+                    <Button Text="DEL" Grid.Row="1" Grid.Column="0" AutomationId="buttonDel" Style="{StaticResource operatorStyle}" Clicked="OnButtonClick" />
+                    <Button Text="÷" Grid.Row="2" Grid.Column="0" AutomationId="buttonDivide" Style="{StaticResource operatorStyle}" Clicked="OnButtonClick" />
+                    <Button Text="×" Grid.Row="3" Grid.Column="0" AutomationId="buttonMultiply" Style="{StaticResource operatorStyle}" Clicked="OnButtonClick" />
+                    <Button Text="-" Grid.Row="4" Grid.Column="0" AutomationId="buttonMinus" Style="{StaticResource operatorStyle}" Clicked="OnButtonClick" />
+                    <Button Text="+" Grid.Row="5" Grid.Column="0" AutomationId="buttonAdd" Style="{StaticResource operatorStyle}" Clicked="OnButtonClick" />
 
                 </Grid>
             </StackLayout>
-            <Label HeightRequest="50" FontSize="22" BackgroundColor="#FFF" Text="Author: Peiren Yang" HorizontalTextAlignment="End" VerticalOptions="EndAndExpand"/>
+            
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

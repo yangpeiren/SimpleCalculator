@@ -20,7 +20,7 @@
                 <Setter Property="BorderRadius" Value="0" />
                 <Setter Property="BackgroundColor" Value="#636363" />
                 <Setter Property="TextColor" Value="#FFF" />
-                <Setter Property="FontSize" Value="25.9"/>
+                <Setter Property="FontSize" Value="25.85"/>
             </Style>
         </ResourceDictionary>
 

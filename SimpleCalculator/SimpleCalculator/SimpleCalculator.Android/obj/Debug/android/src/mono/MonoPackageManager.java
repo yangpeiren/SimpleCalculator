@@ -108,6 +108,7 @@ class MonoPackageManager_Resources {
 		/* We need to ensure that "SimpleCalculator.Android.dll" comes first in this list. */
 		"SimpleCalculator.Android.dll",
 		"FormsViewGroup.dll",
+		"nunit.framework.dll",
 		"Xamarin.Android.Support.Animated.Vector.Drawable.dll",
 		"Xamarin.Android.Support.Annotations.dll",
 		"Xamarin.Android.Support.Compat.dll",
@@ -129,5 +130,5 @@ class MonoPackageManager_Resources {
 	};
 	public static final String[] Dependencies = new String[]{
 	};
-	public static final String ApiPackageName = "Mono.Android.Platform.ApiLevel_24";
+	public static final String ApiPackageName = "Mono.Android.Platform.ApiLevel_25";
 }

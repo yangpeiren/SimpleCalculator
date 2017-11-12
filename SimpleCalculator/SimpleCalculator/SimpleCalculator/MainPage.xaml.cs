@@ -1,14 +1,23 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 using Xamarin.Forms;
 
 namespace SimpleCalculator
 {
+    /// <summary>
+    /// The main logic of the calculator comes from:
+    /// http://resocoder.com/2017/09/15/make-a-calculator-app-with-xamarin-android-2-code/
+    /// which used Xamarin.Andriod, here translated to Xamarin.Forms. Some obvious bugs are fixed.
+    /// The Layout part comes mainly from the google original calculator:
+    /// https://android.googlesource.com/platform/packages/apps/Calculator/
+    /// </summary>
 	public partial class MainPage : ContentPage
 	{
+        const int LENGTH = 12; // fractional size
         private string[] operands = new string[2];
         private string _operator;
         private Label calculatorText;
@@ -16,8 +25,11 @@ namespace SimpleCalculator
         public MainPage()
 		{
 			InitializeComponent();
+            // assign label in the layout to class
             this.calculatorText = outText;
 		}
+
+        public void OnDisplayAbout(object sender, EventArgs e) => DisplayAlert("About", "Author: Peiren Yang" + Environment.NewLine + "Project Address:" + Environment.NewLine + "https://github.com/yangpeiren/SimpleCalculator.git", "OK");
 
         public void OnButtonClick(object sender, EventArgs e)
         {
@@ -64,7 +76,9 @@ namespace SimpleCalculator
 
             if (result != null)
             {
-                operands[0] = result.ToString();
+                // Set the fractional size of the result
+                string temp = result.ToString();
+                operands[0] = temp.Length <= LENGTH ? temp : temp.Substring(0, LENGTH); 
                 _operator = newOperator;
                 operands[1] = null;
                 UpdateCalculatorText();
