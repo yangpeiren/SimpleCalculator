@@ -16,18 +16,18 @@ namespace SimpleCalculator
     /// https://android.googlesource.com/platform/packages/apps/Calculator/
     /// </summary>
 	public partial class MainPage : ContentPage
-	{
+    {
         const int LENGTH = 12; // fractional size
         private string[] operands = new string[2];
         private string _operator;
         private Label calculatorText;
 
         public MainPage()
-		{
-			InitializeComponent();
+        {
+            InitializeComponent();
             // assign label in the layout to class
             this.calculatorText = outText;
-		}
+        }
 
         public void OnDisplayAbout(object sender, EventArgs e) => DisplayAlert("About", "Author: Peiren Yang" + Environment.NewLine + "Project Address:" + Environment.NewLine + "https://github.com/yangpeiren/SimpleCalculator.git", "OK");
 
@@ -60,7 +60,7 @@ namespace SimpleCalculator
             switch (_operator)
             {
                 case "÷":
-                    if(second != 0)
+                    if (second != 0)
                         result = first / second;
                     break;
                 case "×":
@@ -78,7 +78,7 @@ namespace SimpleCalculator
             {
                 // Set the fractional size of the result
                 string temp = result.ToString();
-                operands[0] = temp.Length <= LENGTH ? temp : temp.Substring(0, LENGTH); 
+                operands[0] = temp.Length <= LENGTH ? temp : temp.Substring(0, LENGTH);
                 _operator = newOperator;
                 operands[1] = null;
                 UpdateCalculatorText();
