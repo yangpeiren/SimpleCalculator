@@ -31,13 +31,13 @@
     <AppXManifest Include="D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.UWP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-11-24T16:02:29.670</Modified>
+      <Modified>2017-11-24T17:53:10.853</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.UWP\bin\x86\Debug\SimpleCalculator.UWP.exe">
       <PackagePath>entrypoint\SimpleCalculator.UWP.exe</PackagePath>
-      <Modified>2017-11-24T16:02:27.353</Modified>
+      <Modified>2017-11-24T17:53:08.862</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\yangp\.nuget\packages\microsoft.csharp\4.0.1\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -513,141 +513,141 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.UWP\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
-      <Modified>2017-11-24T16:00:07.061</Modified>
+      <Modified>2017-11-24T17:52:22.682</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.UWP\Assets\LockScreenLogo.scale-100.png">
       <PackagePath>Assets\LockScreenLogo.scale-100.png</PackagePath>
-      <Modified>2017-11-24T16:00:07.000</Modified>
+      <Modified>2017-11-24T17:52:22.628</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.UWP\Assets\LockScreenLogo.scale-125.png">
       <PackagePath>Assets\LockScreenLogo.scale-125.png</PackagePath>
-      <Modified>2017-11-24T16:00:07.022</Modified>
+      <Modified>2017-11-24T17:52:22.628</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.UWP\Assets\LockScreenLogo.scale-150.png">
       <PackagePath>Assets\LockScreenLogo.scale-150.png</PackagePath>
-      <Modified>2017-11-24T16:00:07.024</Modified>
+      <Modified>2017-11-24T17:52:22.629</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.UWP\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
-      <Modified>2017-11-24T16:00:07.025</Modified>
+      <Modified>2017-11-24T17:52:22.630</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.UWP\Assets\LockScreenLogo.scale-400.png">
       <PackagePath>Assets\LockScreenLogo.scale-400.png</PackagePath>
-      <Modified>2017-11-24T16:00:07.027</Modified>
+      <Modified>2017-11-24T17:52:22.665</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.UWP\Assets\SplashScreen.scale-100.png">
       <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-11-24T16:00:07.028</Modified>
+      <Modified>2017-11-24T17:52:22.666</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.UWP\Assets\SplashScreen.scale-125.png">
       <PackagePath>Assets\SplashScreen.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-11-24T16:00:07.029</Modified>
+      <Modified>2017-11-24T17:52:22.667</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.UWP\Assets\SplashScreen.scale-150.png">
       <PackagePath>Assets\SplashScreen.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-11-24T16:00:07.031</Modified>
+      <Modified>2017-11-24T17:52:22.668</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.UWP\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-11-24T16:00:07.032</Modified>
+      <Modified>2017-11-24T17:52:22.668</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.UWP\Assets\SplashScreen.scale-400.png">
       <PackagePath>Assets\SplashScreen.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-11-24T16:00:07.033</Modified>
+      <Modified>2017-11-24T17:52:22.669</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.UWP\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-11-24T16:00:07.035</Modified>
+      <Modified>2017-11-24T17:52:22.670</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.UWP\Assets\Square44x44Logo.scale-100.png">
       <PackagePath>Assets\Square44x44Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-11-24T16:00:07.036</Modified>
+      <Modified>2017-11-24T17:52:22.670</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.UWP\Assets\Square44x44Logo.scale-125.png">
       <PackagePath>Assets\Square44x44Logo.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-11-24T16:00:07.037</Modified>
+      <Modified>2017-11-24T17:52:22.671</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.UWP\Assets\Square44x44Logo.scale-150.png">
       <PackagePath>Assets\Square44x44Logo.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-11-24T16:00:07.038</Modified>
+      <Modified>2017-11-24T17:52:22.671</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.UWP\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-11-24T16:00:07.040</Modified>
+      <Modified>2017-11-24T17:52:22.672</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.UWP\Assets\Square44x44Logo.scale-400.png">
       <PackagePath>Assets\Square44x44Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-11-24T16:00:07.041</Modified>
+      <Modified>2017-11-24T17:52:22.672</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.UWP\Assets\Square44x44Logo.targetsize-16_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-16_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-11-24T16:00:07.042</Modified>
+      <Modified>2017-11-24T17:52:22.673</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.UWP\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-11-24T16:00:07.043</Modified>
+      <Modified>2017-11-24T17:52:22.673</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.UWP\Assets\Square44x44Logo.targetsize-32_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-32_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-11-24T16:00:07.047</Modified>
+      <Modified>2017-11-24T17:52:22.674</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.UWP\Assets\Square44x44Logo.targetsize-48_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-48_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-11-24T16:00:07.049</Modified>
+      <Modified>2017-11-24T17:52:22.675</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.UWP\Assets\Square44x44Logo.targetsize-256_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-256_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-11-24T16:00:07.046</Modified>
+      <Modified>2017-11-24T17:52:22.674</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.UWP\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-11-24T16:00:07.050</Modified>
+      <Modified>2017-11-24T17:52:22.675</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.UWP\Assets\Wide310x150Logo.scale-100.png">
       <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-11-24T16:00:07.052</Modified>
+      <Modified>2017-11-24T17:52:22.676</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.UWP\Assets\Wide310x150Logo.scale-125.png">
       <PackagePath>Assets\Wide310x150Logo.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-11-24T16:00:07.053</Modified>
+      <Modified>2017-11-24T17:52:22.677</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.UWP\Assets\Wide310x150Logo.scale-150.png">
       <PackagePath>Assets\Wide310x150Logo.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-11-24T16:00:07.055</Modified>
+      <Modified>2017-11-24T17:52:22.677</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.UWP\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-11-24T16:00:07.056</Modified>
+      <Modified>2017-11-24T17:52:22.678</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.UWP\Assets\Wide310x150Logo.scale-400.png">
       <PackagePath>Assets\Wide310x150Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-11-24T16:00:07.058</Modified>
+      <Modified>2017-11-24T17:52:22.678</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.UWP\bin\x86\Debug\SimpleCalculator.UWP.xr.xml">
       <PackagePath>SimpleCalculator.UWP.xr.xml</PackagePath>
-      <Modified>2017-11-24T16:02:27.089</Modified>
+      <Modified>2017-11-24T17:52:24.755</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.16299.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -660,11 +660,11 @@
     <AppxPackagedFile Include="D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.UWP\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-11-24T16:02:28.776</Modified>
+      <Modified>2017-11-24T17:53:10.182</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.UWP\bin\x86\Debug\Core\SimpleCalculator.UWP.exe">
       <PackagePath>SimpleCalculator.UWP.exe</PackagePath>
-      <Modified>2017-11-24T16:02:29.664</Modified>
+      <Modified>2017-11-24T17:53:10.848</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
