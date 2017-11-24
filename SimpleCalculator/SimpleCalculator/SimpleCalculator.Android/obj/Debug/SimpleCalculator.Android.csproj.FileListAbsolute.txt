@@ -44,3 +44,9 @@ D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculat
 D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
 D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
 D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.Android\bin\Debug\SimpleCalculator.Android.dll.mdb
+D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.Android\obj\Debug\android\assets\SimpleCalculator.Android.dll.mdb
+D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
