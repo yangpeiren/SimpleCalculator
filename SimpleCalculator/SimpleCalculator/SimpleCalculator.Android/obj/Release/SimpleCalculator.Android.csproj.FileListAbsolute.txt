@@ -3,7 +3,6 @@ D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculat
 D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.Android\bin\Release\com.companyname.SimpleCalculator.apk
 D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.Android\bin\Release\com.companyname.SimpleCalculator-Signed.apk
 D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.Android\bin\Release\FormsViewGroup.dll
-D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.Android\bin\Release\nunit.framework.dll
 D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.Android\bin\Release\Xamarin.Android.Support.Animated.Vector.Drawable.dll
 D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.Android\bin\Release\Xamarin.Android.Support.Annotations.dll
 D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.Android\bin\Release\Xamarin.Android.Support.Compat.dll
@@ -24,7 +23,6 @@ D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculat
 D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.Android\bin\Release\Xamarin.Forms.Xaml.dll
 D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.Android\bin\Release\FormsViewGroup.pdb
 D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.Android\bin\Release\FormsViewGroup.dll.mdb
-D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.Android\bin\Release\nunit.framework.xml
 D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.Android\bin\Release\Xamarin.Forms.Core.pdb
 D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.Android\bin\Release\Xamarin.Forms.Core.xml
 D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.Android\bin\Release\Xamarin.Forms.Core.dll.mdb
@@ -33,6 +31,7 @@ D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculat
 D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.Android\bin\Release\Xamarin.Forms.Xaml.pdb
 D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.Android\bin\Release\Xamarin.Forms.Xaml.xml
 D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.Android\bin\Release\Xamarin.Forms.Xaml.dll.mdb
+D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.Android\obj\Release\SimpleCalculator.Android.csprojResolveAssemblyReference.cache
 D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.Android\obj\Release\SimpleCalculator.Android.csproj.CoreCompileInputs.cache
 D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.Android\obj\Release\SimpleCalculator.Droid.MainPage.xaml.g.cs
 D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.Android\obj\Release\SimpleCalculator.Droid.App.xaml.g.cs
