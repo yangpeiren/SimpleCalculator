@@ -24091,6 +24091,7 @@
   },
   "projectFileDependencyGroups": {
     "": [
+      "Microsoft.AppCenter >= 1.0.1",
       "Microsoft.AppCenter.Analytics >= 1.0.1",
       "Microsoft.AppCenter.Crashes >= 1.0.1",
       "Microsoft.NETCore.UniversalWindowsPlatform >= 5.2.2",
@@ -24123,7 +24124,11 @@
       "Microsoft.AppCenter.Analytics": "1.0.1",
       "Microsoft.AppCenter.Crashes": "1.0.1",
       "Microsoft.NETCore.UniversalWindowsPlatform": "5.2.2",
-      "Xamarin.Forms": "2.4.0.280"
+      "Xamarin.Forms": "2.4.0.280",
+      "Microsoft.AppCenter": {
+        "target": "Package",
+        "version": "[1.0.1, )"
+      }
     },
     "frameworks": {
       "uap10.0.10586": {}
