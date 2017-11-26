@@ -1,0 +1,3 @@
+SimpleCalculator.UWP, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  SimpleCalculator.UWP.MainPage.xaml
+  SimpleCalculator.UWP.App.xaml

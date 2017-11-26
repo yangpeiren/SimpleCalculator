@@ -5,6 +5,10 @@ using System.Text;
 
 using Xamarin.Forms;
 
+using Microsoft.AppCenter;
+using Microsoft.AppCenter.Analytics;
+using Microsoft.AppCenter.Crashes;
+
 namespace SimpleCalculator
 {
 	public partial class App : Application
@@ -13,8 +17,12 @@ namespace SimpleCalculator
 		{
 			InitializeComponent();
 
-			MainPage = new SimpleCalculator.MainPage();
-		}
+            MainPage = new SimpleCalculator.MainPage();
+
+            AppCenter.Start("android=585cceb6-c48c-4b5b-9191-fa5c925463f6;" + "uwp={Your UWP App secret here};" +
+                   "ios={Your iOS App secret here}",
+                   typeof(Analytics), typeof(Crashes));
+        }
 
 		protected override void OnStart ()
 		{

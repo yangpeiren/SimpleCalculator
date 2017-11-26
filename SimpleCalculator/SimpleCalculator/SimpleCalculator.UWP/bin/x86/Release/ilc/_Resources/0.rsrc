@@ -19,7 +19,7 @@
                    VerticalTextAlignment="Center" LineBreakMode="NoWrap" BackgroundColor="#FFF" TextColor="#6C000000"
                    AutomationId="resultText"/>
             <Label HeightRequest="80" BackgroundColor="#FFF"/>
-            <StackLayout Orientation="Horizontal" Spacing="0">
+            <StackLayout Orientation="Horizontal" Spacing="0" HorizontalOptions="Center">
                 <Grid Padding="0,0"  RowSpacing="0" ColumnSpacing="0" BackgroundColor="#FFF">
 
                     <Grid.RowDefinitions>
