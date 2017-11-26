@@ -14,10 +14,12 @@ D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculat
 D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.Android\obj\Release\android\assets\Xamarin.Android.Support.Design.dll
 D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.Android\obj\Release\android\assets\Xamarin.Android.Support.Fragment.dll
 D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.Android\obj\Release\android\assets\Xamarin.Android.Support.Media.Compat.dll
+D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.Android\obj\Release\android\assets\Xamarin.Android.Support.Transition.dll
 D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.Android\obj\Release\android\assets\Xamarin.Android.Support.v4.dll
 D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.Android\obj\Release\android\assets\Xamarin.Android.Support.v7.AppCompat.dll
 D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.Android\obj\Release\android\assets\Xamarin.Android.Support.v7.CardView.dll
 D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.Android\obj\Release\android\assets\Xamarin.Android.Support.v7.MediaRouter.dll
+D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.Android\obj\Release\android\assets\Xamarin.Android.Support.v7.Palette.dll
 D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.Android\obj\Release\android\assets\Xamarin.Android.Support.v7.RecyclerView.dll
 D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.Android\obj\Release\android\assets\Xamarin.Android.Support.Vector.Drawable.dll
 D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.Android\obj\Release\android\assets\Xamarin.Forms.Core.dll
