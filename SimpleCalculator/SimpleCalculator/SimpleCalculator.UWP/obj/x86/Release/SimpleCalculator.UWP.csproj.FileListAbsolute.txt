@@ -186,7 +186,6 @@ D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculat
 D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.UWP\bin\x86\Release\Xamarin.Forms.Platform.UAP.dll
 D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.UWP\bin\x86\Release\Xamarin.Forms.Platform.dll
 D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.UWP\bin\x86\Release\Xamarin.Forms.Xaml.dll
-D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.UWP\obj\x86\Release\SimpleCalculator.UWP.csprojResolveAssemblyReference.cache
 D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.UWP\obj\x86\Release\App.g.i.cs
 D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.UWP\obj\x86\Release\App.g.cs
 D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.UWP\obj\x86\Release\MainPage.g.i.cs
@@ -503,3 +502,4 @@ D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculat
 D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.UWP\obj\x86\Release\ilc\intermediate\SimpleCalculator.UWP.McgInterop\SharedStubs.g.cs
 D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.UWP\obj\x86\Release\ilc\intermediate\TransformedSRWR\System.Runtime.WindowsRuntime.dll
 D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.UWP\obj\x86\Release\ilc\intermediate\TransformedSRWR\System.Runtime.WindowsRuntime.dll.ILTransformTask.repro
+D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.UWP\obj\x86\Release\SimpleCalculator.UWP.csprojResolveAssemblyReference.cache

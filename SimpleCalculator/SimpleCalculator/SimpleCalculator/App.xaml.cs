@@ -21,7 +21,7 @@ namespace SimpleCalculator
 
             AppCenter.Start("android=585cceb6-c48c-4b5b-9191-fa5c925463f6;" + "uwp=e3a39ca4-23f5-43e1-962d-b81b269263a5;" +
                    "ios=5e457cd7-d385-4505-adc7-3578d0154aaf;",
-                   typeof(Analytics), typeof(Crashes));
+                   typeof(Analytics));
         }
 
 		protected override void OnStart ()

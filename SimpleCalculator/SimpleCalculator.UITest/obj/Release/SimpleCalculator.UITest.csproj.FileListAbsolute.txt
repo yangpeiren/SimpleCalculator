@@ -7,7 +7,6 @@ D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator.UITest\bin\Rel
 D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator.UITest\bin\Release\Xamarin.Forms.Core.dll
 D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator.UITest\bin\Release\Xamarin.Forms.Platform.Android.dll
 D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator.UITest\bin\Release\Microsoft.AppCenter.Analytics.dll
-D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator.UITest\bin\Release\Microsoft.AppCenter.Crashes.dll
 D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator.UITest\bin\Release\Microsoft.AppCenter.dll
 D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator.UITest\bin\Release\Xamarin.Forms.Platform.dll
 D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator.UITest\bin\Release\Xamarin.Android.Support.v7.AppCompat.dll
@@ -17,7 +16,6 @@ D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator.UITest\bin\Rel
 D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator.UITest\bin\Release\Xamarin.Android.Support.Design.dll
 D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator.UITest\bin\Release\Microsoft.AppCenter.Android.Bindings.dll
 D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator.UITest\bin\Release\Microsoft.AppCenter.Analytics.Android.Bindings.dll
-D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator.UITest\bin\Release\Microsoft.AppCenter.Crashes.Android.Bindings.dll
 D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator.UITest\bin\Release\Xamarin.Android.Support.Compat.dll
 D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator.UITest\bin\Release\Xamarin.Android.Support.Core.UI.dll
 D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator.UITest\bin\Release\Xamarin.Android.Support.Fragment.dll

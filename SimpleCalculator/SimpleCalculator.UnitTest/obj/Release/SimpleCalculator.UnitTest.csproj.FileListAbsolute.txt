@@ -7,7 +7,7 @@ D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator.UnitTest\bin\R
 D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator.UnitTest\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
 D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator.UnitTest\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
 D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator.UnitTest\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
-D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator.UnitTest\obj\Release\SimpleCalculator.UnitTest.csprojResolveAssemblyReference.cache
 D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator.UnitTest\obj\Release\SimpleCalculator.UnitTest.csproj.CoreCompileInputs.cache
 D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator.UnitTest\obj\Release\SimpleCalculator.UnitTest.dll
 D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator.UnitTest\obj\Release\SimpleCalculator.UnitTest.pdb
+D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator.UnitTest\obj\Release\SimpleCalculator.UnitTest.csprojResolveAssemblyReference.cache
