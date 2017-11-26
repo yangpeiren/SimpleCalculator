@@ -24,8 +24,13 @@ namespace SimpleCalculator.iOS
 		{
 			global::Xamarin.Forms.Forms.Init ();
 			LoadApplication (new SimpleCalculator.App ());
-
-			return base.FinishedLaunching (app, options);
+            // Newer version of Visual Studio for Mac and Visual Studio provide the
+            // ENABLE_TEST_CLOUD compiler directive in the Debug configuration,
+            // but not the Release configuration.
+#if ENABLE_TEST_CLOUD
+Xamarin.Calabash.Start();
+#endif
+            return base.FinishedLaunching (app, options);
 		}
 	}
 }
