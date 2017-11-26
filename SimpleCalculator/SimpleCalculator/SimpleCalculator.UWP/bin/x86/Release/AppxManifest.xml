@@ -31,6 +31,14 @@
   <Capabilities>
     <Capability Name="internetClient" />
   </Capabilities>
+  <Extensions>
+    <Extension Category="windows.activatableClass.inProcessServer">
+      <InProcessServer>
+        <Path>WatsonRegistrationUtility.dll</Path>
+        <ActivatableClass ActivatableClassId="WatsonRegistrationUtility.WatsonRegistrationManager" ThreadingModel="both" />
+      </InProcessServer>
+    </Extension>
+  </Extensions>
   <build:Metadata>
     <build:Item Name="SharedGUID" Value="5945d418-94d5-4542-9cd7-8273c14d5068" />
     <build:Item Name="CodeSharingProject" Value="248F659F-DAC5-46E8-AC09-60EC9FC95053" />

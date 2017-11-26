@@ -50,3 +50,9 @@ D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculat
 D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.Android\obj\Release\android\assets\Xamarin.Forms.Core.dll.mdb
 D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.Android\obj\Release\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
 D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.Android\obj\Release\android\assets\Xamarin.Forms.Xaml.dll.mdb
+D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.Android\bin\Release\Microsoft.AppCenter.Analytics.Android.Bindings.dll
+D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.Android\bin\Release\Microsoft.AppCenter.Analytics.dll
+D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.Android\bin\Release\Microsoft.AppCenter.Android.Bindings.dll
+D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.Android\bin\Release\Microsoft.AppCenter.Crashes.Android.Bindings.dll
+D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.Android\bin\Release\Microsoft.AppCenter.Crashes.dll
+D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.Android\bin\Release\Microsoft.AppCenter.dll

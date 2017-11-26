@@ -1,5 +1,11 @@
 D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.Android\obj\Release\android\assets\SimpleCalculator.Android.dll
 D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.Android\obj\Release\android\assets\FormsViewGroup.dll
+D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.Android\obj\Release\android\assets\Microsoft.AppCenter.Analytics.Android.Bindings.dll
+D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.Android\obj\Release\android\assets\Microsoft.AppCenter.Analytics.dll
+D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.Android\obj\Release\android\assets\Microsoft.AppCenter.Android.Bindings.dll
+D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.Android\obj\Release\android\assets\Microsoft.AppCenter.Crashes.Android.Bindings.dll
+D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.Android\obj\Release\android\assets\Microsoft.AppCenter.Crashes.dll
+D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.Android\obj\Release\android\assets\Microsoft.AppCenter.dll
 D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.Android\obj\Release\android\assets\Xamarin.Android.Support.Animated.Vector.Drawable.dll
 D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.Android\obj\Release\android\assets\Xamarin.Android.Support.Annotations.dll
 D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.Android\obj\Release\android\assets\Xamarin.Android.Support.Compat.dll

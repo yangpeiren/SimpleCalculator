@@ -8,10 +8,20 @@ sg.exe          : 1.0.24211.00 built by: PROJECTNGDR2
 
 Framework:
 clrcompression.dll                                     : 1.0.24214.00 built by: PROJECTKREL
+e_sqlite3.dll                                          : 
+Microsoft.AppCenter.Analytics.dll                      : 1.0.1.0
+Microsoft.AppCenter.Crashes.dll                        : 1.0.1.0
+Microsoft.AppCenter.dll                                : 1.0.1.0
 Microsoft.CSharp.dll                                   : 1.0.24212.01
 Microsoft.VisualBasic.dll                              : 1.0.24212.01
 Microsoft.Win32.Primitives.dll                         : 1.0.24212.01
 mscorlib.dll                                           : 4.6.24301.0
+Newtonsoft.Json.dll                                    : 6.0.1.17001
+SQLite-net.dll                                         : 1.1.0.0
+SQLitePCLRaw.batteries_green.dll                       : 1.0.0.0
+SQLitePCLRaw.batteries_v2.dll                          : 1.0.0.0
+SQLitePCLRaw.core.dll                                  : 1.0.0.0
+SQLitePCLRaw.provider.e_sqlite3.dll                    : 1.0.0.0
 System.AppContext.dll                                  : 1.0.24212.01
 System.Buffers.dll                                     : 1.0.24212.01
 System.Collections.Concurrent.dll                      : 4.6.23123.00
@@ -23,6 +33,7 @@ System.ComponentModel.Annotations.dll                  : 1.0.24212.01
 System.ComponentModel.DataAnnotations.dll              : 4.6.24301.0
 System.ComponentModel.dll                              : 1.0.24212.01
 System.ComponentModel.EventBasedAsync.dll              : 1.0.24212.01
+System.Console.dll                                     : 1.0.24212.01
 System.Core.dll                                        : 4.6.24301.0
 System.Data.Common.dll                                 : 1.0.24212.01
 System.Diagnostics.Contracts.dll                       : 1.0.24212.01
@@ -105,6 +116,7 @@ System.Runtime.dll                                     : 4.6.23123.00 built by: 
 System.Runtime.Extensions.dll                          : 4.6.23123.00 built by: PROJECTKREL
 System.Runtime.Handles.dll                             : 1.0.24212.01
 System.Runtime.InteropServices.dll                     : 4.6.23123.0
+System.Runtime.InteropServices.RuntimeInformation.dll  : 1.0.24212.01
 System.Runtime.InteropServices.WindowsRuntime.dll      : 1.0.24212.01
 System.Runtime.Numerics.dll                            : 1.0.24212.01
 System.Runtime.Serialization.dll                       : 4.6.24301.0
@@ -146,6 +158,7 @@ System.Xml.Serialization.dll                           : 4.6.24301.0
 System.Xml.XDocument.dll                               : 1.0.24212.01
 System.Xml.XmlDocument.dll                             : 1.0.24212.01
 System.Xml.XmlSerializer.dll                           : 1.0.24212.01
+WatsonRegistrationUtility.dll                          : 
 Xamarin.Forms.Core.dll                                 : 2.0.0.0
 Xamarin.Forms.Platform.dll                             : 1.0.0.0
 Xamarin.Forms.Platform.UAP.dll                         : 2.0.0.0

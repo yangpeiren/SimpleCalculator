@@ -14,4 +14,5 @@
     <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="com.companyname.SimpleCalculator.mono.MonoRuntimeProvider.__mono_init__" />
     <meta-data android:name="android.support.VERSION" android:value="25.4.0" />
   </application>
+  <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 </manifest>

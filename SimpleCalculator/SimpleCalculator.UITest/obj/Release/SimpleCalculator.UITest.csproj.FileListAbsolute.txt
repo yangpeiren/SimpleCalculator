@@ -31,3 +31,9 @@ D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator.UITest\obj\Rel
 D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator.UITest\obj\Release\SimpleCalculator.UITest.csproj.CoreCompileInputs.cache
 D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator.UITest\obj\Release\SimpleCalculator.UITest.dll
 D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator.UITest\obj\Release\SimpleCalculator.UITest.pdb
+D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator.UITest\bin\Release\Microsoft.AppCenter.Analytics.dll
+D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator.UITest\bin\Release\Microsoft.AppCenter.Crashes.dll
+D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator.UITest\bin\Release\Microsoft.AppCenter.dll
+D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator.UITest\bin\Release\Microsoft.AppCenter.Android.Bindings.dll
+D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator.UITest\bin\Release\Microsoft.AppCenter.Analytics.Android.Bindings.dll
+D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator.UITest\bin\Release\Microsoft.AppCenter.Crashes.Android.Bindings.dll

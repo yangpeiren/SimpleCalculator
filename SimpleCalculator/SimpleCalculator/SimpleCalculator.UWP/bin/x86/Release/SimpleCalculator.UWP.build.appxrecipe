@@ -131,6 +131,9 @@
     <AppxPackagedFile Include="D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.UWP\bin\x86\Release\ilc\clrcompression.dll">
       <PackagePath>clrcompression.dll</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.UWP\bin\x86\Release\ilc\e_sqlite3.dll">
+      <PackagePath>e_sqlite3.dll</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.UWP\bin\x86\Release\ilc\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
@@ -143,6 +146,12 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.UWP\bin\x86\Release\ilc\SimpleCalculator.UWP.pdb">
       <PackagePath>SimpleCalculator.UWP.pdb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.UWP\bin\x86\Release\ilc\WatsonRegistrationUtility.dll">
+      <PackagePath>WatsonRegistrationUtility.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.UWP\bin\x86\Release\ilc\WatsonRegistrationUtility.winmd">
+      <PackagePath>WatsonRegistrationUtility.winmd</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.UWP\bin\x86\Release\ilc\_Resources\0.rsrc">
       <PackagePath>_Resources\0.rsrc</PackagePath>
