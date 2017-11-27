@@ -19,7 +19,7 @@
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
     <LayoutDir>D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.UWP\bin\x86\Release\AppX</LayoutDir>
-    <RegisteredManifestChecksum>75372E29409B2CBE63117860EABBD0AA354BB62C69EE45514A5824993AC31E57</RegisteredManifestChecksum>
+    <RegisteredManifestChecksum>AFA88912A7FFCBCFBA51915AFBBCEB1F3132359C3452E665DED367666B670909</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>492d1cf7-2831-4a61-93d3-3a53c60bd898_1.0.0.0_x86__3j402kxy58hce</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>492d1cf7-2831-4a61-93d3-3a53c60bd898_3j402kxy58hce!App</RegisteredUserModeAppID>
     <RegisteredPackageID>492d1cf7-2831-4a61-93d3-3a53c60bd898</RegisteredPackageID>
@@ -31,7 +31,7 @@
     <AppXManifest Include="D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.UWP\bin\x86\Release\ilc\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-11-26T15:55:14.212</Modified>
+      <Modified>2017-11-27T21:19:21.307</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -169,34 +169,46 @@
       <PackagePath>clrcompression.dll</PackagePath>
       <Modified>2016-06-13T19:51:30.000</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.UWP\bin\x86\Release\ilc\e_sqlite3.dll">
+      <PackagePath>e_sqlite3.dll</PackagePath>
+      <Modified>2017-01-04T08:55:12.000</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.UWP\bin\x86\Release\ilc\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-11-26T15:43:34.982</Modified>
+      <Modified>2017-11-27T21:18:17.650</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.UWP\bin\x86\Release\ilc\SimpleCalculator.UWP.dll">
       <PackagePath>SimpleCalculator.UWP.dll</PackagePath>
-      <Modified>2017-11-26T15:55:13.553</Modified>
+      <Modified>2017-11-27T21:19:20.261</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.UWP\bin\x86\Release\ilc\SimpleCalculator.UWP.exe">
       <PackagePath>SimpleCalculator.UWP.exe</PackagePath>
-      <Modified>2017-11-26T15:55:14.184</Modified>
+      <Modified>2017-11-27T21:19:21.274</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.UWP\bin\x86\Release\ilc\SimpleCalculator.UWP.pdb">
       <PackagePath>SimpleCalculator.UWP.pdb</PackagePath>
-      <Modified>2017-11-26T15:55:14.182</Modified>
+      <Modified>2017-11-27T21:19:21.273</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.UWP\bin\x86\Release\ilc\WatsonRegistrationUtility.dll">
+      <PackagePath>WatsonRegistrationUtility.dll</PackagePath>
+      <Modified>2017-11-15T06:36:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.UWP\bin\x86\Release\ilc\WatsonRegistrationUtility.winmd">
+      <PackagePath>WatsonRegistrationUtility.winmd</PackagePath>
+      <Modified>2017-11-15T06:36:18.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.UWP\bin\x86\Release\ilc\_Resources\0.rsrc">
       <PackagePath>_Resources\0.rsrc</PackagePath>
-      <Modified>2017-11-26T15:54:50.500</Modified>
+      <Modified>2017-11-27T21:18:48.448</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.UWP\bin\x86\Release\ilc\_Resources\1.rsrc">
       <PackagePath>_Resources\1.rsrc</PackagePath>
-      <Modified>2017-11-26T15:54:50.501</Modified>
+      <Modified>2017-11-27T21:18:48.466</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\My projects\SimpleCalculator\SimpleCalculator\SimpleCalculator\SimpleCalculator.UWP\bin\x86\Release\ilc\_Resources\index.txt">
       <PackagePath>_Resources\index.txt</PackagePath>
-      <Modified>2017-11-26T15:54:50.501</Modified>
+      <Modified>2017-11-27T21:18:48.466</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
