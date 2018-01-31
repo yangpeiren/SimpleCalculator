@@ -10,8 +10,6 @@ namespace SimpleCalculator.UnitTest
         public void CalculateTest()
         {
             //Add Unit test for the program logic
-            // Not enougth space on C disk, no Windows API installed, therefore
-            // not possible to test the SimpleCalculator project
         }
     }
 }
