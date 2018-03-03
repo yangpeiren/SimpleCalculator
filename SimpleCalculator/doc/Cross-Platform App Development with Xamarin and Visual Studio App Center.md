@@ -1,7 +1,5 @@
 ﻿# Cross-Platform App Development with Xamarin and Visual Studio App Center
 
-Tags: Robotics
-
 ---
 
 This article presents how to build up an environment for the development of cross-platform apps step by step. By following the guidelines of Continuous Integration, the process of development will conform to the guide of software engineering, which reduces risks in development, reduces repetitive manual processes of building, testing as well as deployment and enables continuous delivery of the apps.
@@ -9,10 +7,6 @@ This article presents how to build up an environment for the development of cros
 Cross-Platform here means the ability that one set of code can be compiled to three different object code and then deploy to devices of three different platforms, namely Android, iOS and Windows UWP, without additional customization for each platform individually. Xamarin is the chosen framework to achieve this target.
 
 One Xamarin sample project with different tests is used for the illustration in this article. The project is a simple calculator with basic functions but in most case sufficient for the illustration. [Here](https://github.com/yangpeiren/SimpleCalculator.git) is the link to the project on GitHub.
-
-## Content
-
-[TOC]
 
 ## 0. Prerequisites
 
@@ -466,7 +460,7 @@ Jenkins could also act as an assistant tool to Visual Studio App Center, in whic
 
 ![Jenkins and App Center](https://developer.xamarin.com/guides/cross-platform/ci/intro_to_ci/Images/intro05.png)
 
-  [1]: http://static.zybuluo.com/yangpeiren/vpno8onr4ntb527itvk1c13m/new_repo.png
+  [1]: ./img/new_repo.png
   [2]: http://static.zybuluo.com/yangpeiren/93jvcerfj5linhyx4wltxe4i/new_repo_create.png
   [3]: http://static.zybuluo.com/yangpeiren/p4ay9c8xqg5h0a44walawrld/new_repo_clone.png
   [4]: http://static.zybuluo.com/yangpeiren/2urz6uqgwfg564i4jkku3hq6/git%20shell.png
